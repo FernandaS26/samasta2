@@ -1,8 +1,8 @@
 <?php
 // Informasi koneksi database
-$host = "localhost"; // Host database
-$username = "root"; // Username database
-$password = ""; // Password database
+$host = "rv-database-1.czxfewbxqjnj.us-east-1.rds.amazonaws.com"; // Host database
+$username = "admin"; // Username database
+$password = "admin12345"; // Password database
 $database = "gazebo_seal"; // Nama database
 
 try {
